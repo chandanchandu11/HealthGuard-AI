@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "2026-07-20T23:34:05.704725",
+    "type": "sleep",
+    "duration": 0,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:34:07.150693",
+    "type": "sleep",
+    "duration": 0.6718020439147949,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:34:08.567809",
+    "type": "sleep",
+    "duration": 0.9052629470825195,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:34:10.441425",
+    "type": "sleep",
+    "duration": 1.4326896667480469,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:01.257982",
+    "type": "sleep",
+    "duration": 1.6810030937194824,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:08.740726",
+    "type": "sleep",
+    "duration": 2.553400993347168,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:09.712522",
+    "type": "sleep",
+    "duration": 2.8381285667419434,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:15.791427",
+    "type": "sleep",
+    "duration": 3.41733455657959,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:26.863404",
+    "type": "sleep",
+    "duration": 3.762251138687134,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:29.240152",
+    "type": "sleep",
+    "duration": 4.4624388217926025,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:30.325534",
+    "type": "sleep",
+    "duration": 4.68059515953064,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:31.426895",
+    "type": "sleep",
+    "duration": 5.109182596206665,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:33.950963",
+    "type": "sleep",
+    "duration": 6.945262670516968,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:34.892558",
+    "type": "sleep",
+    "duration": 7.084196329116821,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:36.964966",
+    "type": "sleep",
+    "duration": 7.988544464111328,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:35:44.290911",
+    "type": "sleep",
+    "duration": 8.4569091796875,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:54:23.765738",
+    "type": "sleep",
+    "duration": 0,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:54:25.766462",
+    "type": "sleep",
+    "duration": 0,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:54:27.800618",
+    "type": "sleep",
+    "duration": 0,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:55:27.024381",
+    "type": "sleep",
+    "duration": 5.004058837890625,
+    "ear_value": 0.3
+  },
+  {
+    "timestamp": "2026-07-20T23:55:29.104709",
+    "type": "sleep",
+    "duration": 5.004058837890625,
+    "ear_value": 0.3
+  }
+]
